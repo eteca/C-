@@ -1,2 +1,2 @@
-# C-
-Exercícios Arnaldo
+# C++
+Exercícios da aula de algoritmos
